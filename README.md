@@ -1,2 +1,2 @@
-# spygetit-heavy
-Heavy client for Spygetit project
+# spygetit-web
+Web front and backend for Spygetit project
